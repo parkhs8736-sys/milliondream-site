@@ -101,7 +101,7 @@ header.site .admin-link:hover{color:var(--accent);border-bottom-color:var(--acce
     if (!Array.isArray(posts) || posts.length === 0){
       var empty = el('div','empty');
       empty.appendChild(el('strong', null, '아직 올라온 글이 없습니다'));
-      empty.appendChild(document.createTextNode('첫 번째 이야기를 준비하고 있어요. 곧 만나요.'));
+      
       list.replaceWith(empty);
       return;
     }
