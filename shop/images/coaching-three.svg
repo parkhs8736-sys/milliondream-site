@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">밀리언드림 코칭반 3 과정 표지</title>
+  <desc id="desc">세 물건 완성 코칭 과정을 소개하는 남색 표지</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#252c4b"/>
+      <stop offset="1" stop-color="#4b537d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <g fill="none" stroke="#bdc8e4" stroke-width="4" opacity=".58">
+    <path d="M430 544V324h74v220M524 544V255h74v289M618 544V185h74v359"/>
+    <path d="M448 355h38M448 410h38M448 465h38M542 286h38M542 341h38M542 396h38M542 451h38M636 216h38M636 271h38M636 326h38M636 381h38M636 436h38"/>
+  </g>
+  <circle cx="467" cy="590" r="12" fill="#f1ca88"/><circle cx="561" cy="590" r="12" fill="#f1ca88"/><circle cx="655" cy="590" r="12" fill="#f1ca88"/>
+  <path d="M467 590h188" stroke="#f1ca88" stroke-width="5" opacity=".7"/>
+  <rect x="64" y="72" width="184" height="42" rx="21" fill="#f1ca88"/>
+  <text x="156" y="100" fill="#252c4b" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="2">MILLION DREAM</text>
+  <text x="64" y="300" fill="#f1ca88" font-family="Arial, sans-serif" font-size="30" letter-spacing="4">COACHING 03</text>
+  <text x="61" y="396" fill="#ffffff" font-family="Noto Sans KR, Apple SD Gothic Neo, Malgun Gothic, sans-serif" font-size="78" font-weight="800">코칭반 3</text>
+  <text x="64" y="456" fill="#e7eafa" font-family="Noto Sans KR, Apple SD Gothic Neo, Malgun Gothic, sans-serif" font-size="34" font-weight="600">세 물건 완성</text>
+  <path d="M64 520h180" stroke="#f1ca88" stroke-width="8" stroke-linecap="round"/>
+  <text x="64" y="728" fill="#e7eafa" font-family="Noto Sans KR, Apple SD Gothic Neo, Malgun Gothic, sans-serif" font-size="28">밀리언드림 교육 과정</text>
+</svg>
