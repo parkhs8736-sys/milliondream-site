@@ -9,11 +9,89 @@
     "returnPolicy": "## 취소·환불 안내\n\n일정·수강 범위·환불 조건은 공식 판매 페이지(https://www.latpeed.com/products/SHXmi)에서 확인해 주세요."
   },
   "payment": {
-    "bank": { "enabled": false, "bankName": "OO은행", "account": "000-0000-0000-00", "holder": "예금주 이름", "dueHours": 48 },
-    "toss": { "enabled": false, "clientKey": "test_gck_docs_Ovk5rk1EwkEbP0W43n07xlzm" }
+    "bank": {
+      "enabled": false,
+      "bankName": "OO은행",
+      "account": "000-0000-0000-00",
+      "holder": "예금주 이름",
+      "dueHours": 48
+    },
+    "toss": {
+      "enabled": false,
+      "clientKey": "test_gck_docs_Ovk5rk1EwkEbP0W43n07xlzm"
+    }
   },
-  "categories": ["대표 상품", "소품"],
+  "categories": [
+    "대표 상품",
+    "소품"
+  ],
   "products": [
+    {
+      "id": "folding-camping-chair",
+      "sku": "",
+      "name": "접이식 캠핑 의자",
+      "category": "캠핑",
+      "summary": "입고예정 · 주문 불가. 제품 사양과 공급 조건을 확인 중입니다.",
+      "listPrice": 0,
+      "price": 53700,
+      "salePrice": 0,
+      "saleStart": "",
+      "saleEnd": "",
+      "stock": 0,
+      "status": "품절",
+      "featured": true,
+      "badges": [
+        "입고예정"
+      ],
+      "images": [
+        "shop/images/20261119-fqz2ay.jpg",
+        "shop/images/20261119-lwwoq1.jpg",
+        "shop/images/20261119-ikz2qv.jpg"
+      ],
+      "options": [],
+      "specs": [],
+      "notice": [
+        {
+          "k": "판매 상태",
+          "v": "입고예정 · 주문 불가"
+        },
+        {
+          "k": "모델명",
+          "v": "확인 중"
+        },
+        {
+          "k": "제조사·원산지",
+          "v": "최종 확인 중"
+        },
+        {
+          "k": "크기·무게·구성품",
+          "v": "최종 확인 중"
+        },
+        {
+          "k": "인증 적용 여부",
+          "v": "품목 분류 확인 중"
+        }
+      ],
+      "detail": "# 다시 고르는 캠핑 의자, 근거부터 봐요\n\n표시 판매가 53,700원 · 현재 입고예정으로 주문을 받지 않습니다.\n\n접이식 캠핑 의자의 형태와 사용 장면을 먼저 살펴보세요. 제품 모델·크기·무게·구성품·인증 적용 여부와 공급 조건은 최종 확인 중입니다. 확인이 끝나기 전에는 주문을 열지 않습니다.\n\n> 아래 이미지는 공급처에 표시된 사진을 참고해 만든 AI 시안입니다. 실제 입고품의 외형·색상·구성품·사양을 증명하는 실물 사진이 아닙니다.\n\n## 구매 전 확인할 항목\n\n- 최종 모델명·제조사·원산지\n- 접었을 때 크기·무게·구성품\n- 설치 조건·사용 주의사항·인증 적용 여부\n- 실제 입고 일정과 배송 조건",
+      "detailImages": [
+        "shop/images/20261119-w7xupp.jpg",
+        "shop/images/20261119-v3jn0n.jpg",
+        "shop/images/20261119-9s6nao.jpg",
+        "shop/images/20261119-zqkfhq.jpg",
+        "shop/images/20261119-o4ytlu.jpg",
+        "shop/images/20261119-44xu60.jpg",
+        "shop/images/20261119-kg2d5q.jpg",
+        "shop/images/20261119-036ecr.jpg",
+        "shop/images/20261119-ywk8u3.jpg",
+        "shop/images/20261119-5xve6q.jpg",
+        "shop/images/20261119-i1nv3f.jpg",
+        "shop/images/20261119-4so8ia.jpg",
+        "shop/images/20261119-yp6y8w.jpg",
+        "shop/images/20261119-pbi2ue.jpg"
+      ],
+      "maxQty": 10,
+      "createdAt": "2026-11-19"
+    },
     {
       "id": "sample-best",
       "sku": "P-0001",
@@ -28,11 +106,38 @@
       "stock": null,
       "status": "숨김",
       "featured": true,
-      "badges": ["BEST"],
-      "images": ["shop/images/sample-1.svg", "shop/images/sample-2.svg"],
+      "badges": [
+        "BEST"
+      ],
+      "images": [
+        "shop/images/sample-1.svg",
+        "shop/images/sample-2.svg"
+      ],
       "options": [],
-      "specs": [{ "k": "용량", "v": "500g" }, { "k": "원산지", "v": "국내" }],
-      "notice": [{ "k": "제품명", "v": "샘플 상품 500g" }, { "k": "제조국", "v": "대한민국" }, { "k": "소비자상담 연락처", "v": "상점 설정의 문의 연락처" }],
+      "specs": [
+        {
+          "k": "용량",
+          "v": "500g"
+        },
+        {
+          "k": "원산지",
+          "v": "국내"
+        }
+      ],
+      "notice": [
+        {
+          "k": "제품명",
+          "v": "샘플 상품 500g"
+        },
+        {
+          "k": "제조국",
+          "v": "대한민국"
+        },
+        {
+          "k": "소비자상담 연락처",
+          "v": "상점 설정의 문의 연락처"
+        }
+      ],
       "detail": "# 손님이 가장 먼저 들어야 할 한 문장\n\n상품이 어떤 분의 어떤 고민을 덜어 주는지 두 줄로 적어요.\n\n## 이런 분께 추천해요\n\n- 처음 써 보는 분\n- 선물을 고르는 분\n\n> 이 상품을 만든 이유를 한두 문장으로 적어요.\n\n## POINT 1 | 첫 번째 강점\n\n강점을 뒷받침하는 사실(재료·공정·수치)을 적어요.\n\n## 구성\n\n| 항목 | 내용 |\n| 용량 | 500g |\n| 원산지 | 국내 |\n\n## 이렇게 쓰세요\n\n1. 첫 번째 단계\n2. 두 번째 단계\n\n**굵게** 쓰고 싶은 말은 별표 두 개로 감싸요. 관리자 화면의 '한국형 상세 틀 넣기' 버튼을 누르면 전체 틀이 들어가요.",
       "detailImages": [],
       "maxQty": 10,
@@ -52,10 +157,33 @@
       "stock": 20,
       "status": "숨김",
       "featured": true,
-      "badges": ["NEW"],
-      "images": ["shop/images/sample-2.svg"],
-      "options": [{ "name": "색상", "values": [{ "label": "화이트", "add": 0 }, { "label": "블랙", "add": 1000 }] }],
-      "specs": [{ "k": "크기", "v": "10 × 10cm" }],
+      "badges": [
+        "NEW"
+      ],
+      "images": [
+        "shop/images/sample-2.svg"
+      ],
+      "options": [
+        {
+          "name": "색상",
+          "values": [
+            {
+              "label": "화이트",
+              "add": 0
+            },
+            {
+              "label": "블랙",
+              "add": 1000
+            }
+          ]
+        }
+      ],
+      "specs": [
+        {
+          "k": "크기",
+          "v": "10 × 10cm"
+        }
+      ],
       "detail": "옵션마다 추가 금액을 붙일 수 있어요. 블랙은 1,000원이 더해져요.",
       "detailImages": [],
       "maxQty": 5,
@@ -76,7 +204,9 @@
       "status": "숨김",
       "featured": false,
       "badges": [],
-      "images": ["shop/images/sample-3.svg"],
+      "images": [
+        "shop/images/sample-3.svg"
+      ],
       "options": [],
       "specs": [],
       "detail": "",
@@ -99,7 +229,9 @@
       "status": "품절",
       "featured": false,
       "badges": [],
-      "images": ["shop/images/field-class.svg"],
+      "images": [
+        "shop/images/field-class.svg"
+      ],
       "options": [],
       "specs": [],
       "notice": [],
@@ -123,7 +255,9 @@
       "status": "품절",
       "featured": false,
       "badges": [],
-      "images": ["shop/images/coaching-one.svg"],
+      "images": [
+        "shop/images/coaching-one.svg"
+      ],
       "options": [],
       "specs": [],
       "notice": [],
@@ -147,7 +281,9 @@
       "status": "품절",
       "featured": false,
       "badges": [],
-      "images": ["shop/images/coaching-three.svg"],
+      "images": [
+        "shop/images/coaching-three.svg"
+      ],
       "options": [],
       "specs": [],
       "notice": [],
